@@ -3,7 +3,7 @@ I am a Cybersecurity student at *FIAP* interested in developing my programming s
 
 ### 🠒 Skills
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="48" height="48" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="48" height="48" /></a> <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="48" height="48" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="48" height="48" /></a> <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48" /></a> <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kali" alt="kali" width="48" height="48" /></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="48" height="48" /></a>
 #
 ### 🠒 Checkout my TryHackMe portfolio!
 
