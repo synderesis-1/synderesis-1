@@ -1,4 +1,5 @@
-# I am a Cybersecurity student at FIAP interested in developing my programming skills and sharing my new projects on github.
+# Hi, My name is Synderesis!
+I am a Cybersecurity student at FIAP interested in developing my programming skills and sharing my new projects on github.
 
 <!-- Badge do Python -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
