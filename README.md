@@ -10,4 +10,3 @@ I am a Cybersecurity student at FIAP interested in developing my programming ski
 <a href="https://tryhackme.com/p/synderesis" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/synderesis.png" alt="TryHackMe Profile" />
 </a>
-#
