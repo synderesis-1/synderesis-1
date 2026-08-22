@@ -1,3 +1,2 @@
 # I am a Cybersecurity student at FIAP interested in developing my programming skills and sharing my new projects on github.
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
+<img src="https://jsdelivr.net" alt="Python Logo" width="40" height="40">
