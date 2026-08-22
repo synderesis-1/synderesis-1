@@ -6,6 +6,6 @@ I am a Cybersecurity student at FIAP interested in developing my programming ski
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="48" height="48" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="48" height="48" /></a> <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48" /></a>
 
 ### Checkout my TryHackMe portfolio!
-<a href="https://tryhackme.com/p/SEU_USUARIO" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SEU_USUARIO.png" alt="TryHackMe Badge" />
+<a href="https://tryhackme.com/p/synderesis" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/synderesis.png" alt="TryHackMe Badge" />
 </a>
