@@ -7,5 +7,5 @@ I am a Cybersecurity student at FIAP interested in developing my programming ski
 
 ### Checkout my TryHackMe portfolio!
 <a href="https://tryhackme.com/p/synderesis" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/synderesis.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/synderesis.png?v=1" alt="TryHackMe Badge" />
 </a>
