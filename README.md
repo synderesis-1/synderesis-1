@@ -3,6 +3,7 @@
 # Hi, My name is ***Synderesis***!
 
 **ENG**
+
 I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing my programming skills and sharing my new projects on GitHub.
 
 **PT-BR**
@@ -10,6 +11,7 @@ I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing m
 Sou uma estudande de Cibersegurança na FIAP e ETEC, interessada em desenvolver as minhas habilidades de programação e compartilhar os meus novos projetos no GitHub.
 
 ## Skills
+
 <!-- Linguagens de Programação e Scripting -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="48" height="48" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="48" height="48" /></a>
