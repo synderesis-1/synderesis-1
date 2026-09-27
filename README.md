@@ -1,7 +1,7 @@
-# Hi, My name is ***Synderesis***!
+Hi, My name is ***Synderesis***!
 I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing my programming skills and sharing my new projects on GitHub.
 ---
-### Skills
+Skills
 <!-- Linguagens de Programação e Scripting -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="48" height="48" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="48" height="48" /></a>
@@ -12,9 +12,9 @@ I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing m
 <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48" /></a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arch" alt="archlinux" width="48" height="48" /></a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kali" alt="kali" width="48" height="48" /></a>
-#
+
 ---
-### Checkout my TryHackMe portfolio!
+Checkout my TryHackMe portfolio!
 
 <a href="https://tryhackme.com/p/synderesis" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/synderesis.png" alt="TryHackMe Profile" />
