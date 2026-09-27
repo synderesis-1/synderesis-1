@@ -1,11 +1,11 @@
 ---
 # Hi, My name is ***Synderesis***!
-ENG
+**ENG**
 
 I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing my programming skills and sharing my new projects on GitHub.
 
 
-PT-BR
+**PT-BR**
 
 Sou uma estudande de Cibersegurança na FIAP e ETEC, interessada em desenvolver as minhas habilidades de programação e compartilhar os meus novos projetos no GitHub.
 
