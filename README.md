@@ -1,9 +1,8 @@
 ---
 # Hi, My name is ***Synderesis***!
+
 **ENG**
-
 I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing my programming skills and sharing my new projects on GitHub.
-
 
 **PT-BR**
 
