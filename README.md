@@ -1,7 +1,6 @@
+---
 # Hi, My name is ***Synderesis***!
 I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing my programming skills and sharing my new projects on GitHub.
-
----
 
 ## Skills
 <!-- Linguagens de Programação e Scripting -->
@@ -15,10 +14,9 @@ I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing m
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arch" alt="archlinux" width="48" height="48" /></a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kali" alt="kali" width="48" height="48" /></a>
 
----
-
 ## Checkout my TryHackMe portfolio!
 
 <a href="https://tryhackme.com/p/synderesis" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/synderesis.png" alt="TryHackMe Profile" />
 </a>
+---
