@@ -4,9 +4,10 @@ ENG
 
 I am a Cybersecurity student at **FIAP** and **ETEC** interested in developing my programming skills and sharing my new projects on GitHub.
 
+
 PT-BR
 
-Sou estudande de Cibersegurança na FIAP e ETEC, interessada em desenvolver as minhas habilidades de programação e compartilhar meus novos projetos no GitHub.
+Sou uma estudande de Cibersegurança na FIAP e ETEC, interessada em desenvolver as minhas habilidades de programação e compartilhar meus novos projetos no GitHub.
 
 ## Skills
 <!-- Linguagens de Programação e Scripting -->
