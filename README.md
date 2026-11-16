@@ -1,4 +1,4 @@
-# Hi, My name is *Synderesis*!
+# Hi, My name is Synderesis!
 
 **ENG**
 
